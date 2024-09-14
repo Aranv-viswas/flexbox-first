@@ -7,6 +7,7 @@ body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     padding: 20px;
+    line-height: 25px;
 }
 .container {
     display: flex;
@@ -19,6 +20,10 @@ body {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 20px;
-    width: 200px;
+    width: 350px;
     text-align: center;
+}
+.logo {
+    width: 120px;
+
 }
